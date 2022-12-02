@@ -13,11 +13,11 @@ myCinema/src/index.html
 
 2) Start Apache and MySQL 
 
-3) Drag "Shopster-main" into XAMPP's 'htdocs' folder 
+3) Drag "myCinema-main" into XAMPP's 'htdocs' folder 
 
 4) On phpMyAdmin ( http://localhost/phpmyadmin/ ) , create a new database "mycinema"
 
-5) Import the sql file located at /xampp/htdocs/Shopster-main-testing/src/shopster.sql
+5) Import the sql file located at /xampp/htdocs/myCinema-main-testing/src/shopster.sql
 
 6) On a web browser, enter into the url "http://localhost/test/src/"
 
